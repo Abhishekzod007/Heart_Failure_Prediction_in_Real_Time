@@ -45,3 +45,9 @@ It integrates with **InfluxDB** and **Grafana** for real-time visualization and 
  ├── spark_consumer.py     # Reads stream from Kafka & predicts
  ├── requirements.txt      # Python dependencies
  ├── README.md             # Documentation
+
+
+
+
+## 📹 Demo Video
+[🎥 Watch Demo Video](https://drive.google.com/file/d/1p-yCk-oCBWsMq4rC9_Jv3l7LmJW1QZSy/view?usp=drivesdk)
