@@ -95,3 +95,10 @@ pip install -r requirements.txt
 
 ## 📹 Demo Video
 [🎥 Watch Demo Video](https://drive.google.com/file/d/1p-yCk-oCBWsMq4rC9_Jv3l7LmJW1QZSy/view?usp=drivesdk)
+
+
+```
+## System Design 
+
+<img width="1236" height="775" alt="image" src="https://github.com/user-attachments/assets/a8cd5bf7-3cdf-4202-ac05-0dccbc6dea35" />
+
