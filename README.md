@@ -88,6 +88,9 @@ The result is a powerful, scalable, and efficient real-time monitoring system ca
  ├── README.md             # Documentation
 
 
+## Install Dependencies:-
+To set up the project environment, run the following command:
+pip install -r requirements.txt
 
 
 ## 📹 Demo Video
